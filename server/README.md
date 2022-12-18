@@ -1,3 +1,6 @@
+# Adote um aluno
+
+This app is a landing page for a brazilian social project called ```adote um aluno``` and a control area for the leads. We are looking for students and teachers -or anyone who wants to contribute to expand the project.
 ## Server
 
 The server is a very simple Flask server. Its dependencies are:
